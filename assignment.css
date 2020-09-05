@@ -1,0 +1,22 @@
+body {
+    background-image: url("../My Profile/tech_bg4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+  
+nav ul li {
+    display: inline-block;
+    color: black;
+}
+  
+nav ul li a {
+    padding: 20px;
+    font-family: "Roboto";
+    color: rgba(0, 0, 0, 0.5);
+    text-shadow: black;
+    font-size: 25px;
+    text-decoration: none; 
+    display: block;
+    border-radius: 10%;
+}
